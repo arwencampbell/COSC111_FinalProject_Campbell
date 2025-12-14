@@ -10,7 +10,6 @@ Summary: A console-based version of the game Battleship played between a human a
 Menus & Setup: 
 - Start menu
 - Choose player name
-- Choose board size (Normal:6x6, Large:8x8, Extra Large:10x10) (Depending on board size the number of ships will adjust.)
 - Choose to place ships manually or automatically 
 
 Gameplay: To fire shots at the computers board, the player will choose a row letter and column number. Computer randomly selects valid shots. Hits, misses, and sinking of ships are tracked. 
@@ -21,6 +20,7 @@ Symbols:
 - A = Aircraft Carrier
 - B = Battleship
 - C = Cruiser
+- S = Submarine
 - D = Destroyer
 - X = Hit
 - O = Miss
